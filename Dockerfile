@@ -1,5 +1,3 @@
-#!/bin/bash
-
 FROM centos
 MAINTAINER Ramesh B
 
