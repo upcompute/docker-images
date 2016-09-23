@@ -19,6 +19,7 @@ RUN yum -y update \
   && yum -y install less \
   && yum -y install sudo \
   && yum -y install vim-enhanced \
+  && yum -y install nano \
   && yum -y install man \
   && yum -y install man-pages
 
